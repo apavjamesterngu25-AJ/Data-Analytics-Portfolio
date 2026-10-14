@@ -11,6 +11,11 @@ An interactive Power BI dashboard analyzing real estate trends, housing distribu
 ## 🛠️ Tools Used
 * *Power BI Desktop:* For data modeling, DAX calculations, and visual dashboard development.
 * *Microsoft Excel:* For initial data preview and structured storage.
+* ### Dashboard Overview
+
+![Lagos Real Estate Market Dashboard 1](Screenshot%202026-10-14%20224324.png)
+
+![Lagos Real Estate Market Dashboard 2](Screenshot%202026-10-14%20224720.png
 
 ## 📂 Files in this Folder
 * Lagos Real Estate Project 2.pbix - The full interactive Power BI file.
