@@ -15,7 +15,7 @@ An interactive Power BI dashboard analyzing real estate trends, housing distribu
 
 ![Lagos Real Estate Market Dashboard 1](Screenshot%202026-10-16%20111800.png)
 
-![Lagos Real Estate Market Dashboard 2](Screenshot%202026-10-16%20112228.png
+![Lagos Real Estate Market Dashboard 2](Screenshot%202026-10-16%20112228.png)
 
 ## 📂 Files in this Folder
 * Lagos Real Estate Project 2.pbix - The full interactive Power BI file.
