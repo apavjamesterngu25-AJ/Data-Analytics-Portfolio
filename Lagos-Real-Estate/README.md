@@ -13,7 +13,7 @@ An interactive Power BI dashboard analyzing real estate trends, housing distribu
 * *Microsoft Excel:* For initial data preview and structured storage.
 * ### Dashboard Overview
 
-![Lagos Real Estate Market Dashboard 1](Screenshot%202026-10-14%20224324.png)
+![Lagos Real Estate Market Dashboard 1](Screenshot 2026-10-16 111800.png)
 
 ![Lagos Real Estate Market Dashboard 2](Screenshot%202026-10-14%20224720.png
 
