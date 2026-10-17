@@ -19,7 +19,24 @@ This project focuses on analyzing the regional sales performance of *AdventureWo
 * *Data Architecture:* Star-schema data modeling with continuous relationships across calendar dates, regional territories, and product dimensions.
 * *DAX Formulas:* Developed custom measures to compute dynamic monthly revenue changes, performance variances, and percentage return tracking.
 
-## 📈 Dashboard Layout & Visualizations
-1. *Executive Summary KPIs:* Clean high-level cards showing Revenue, Profit, Orders, and Return Rates for rapid business health evaluation.
-2. *Revenue Trend Analysis:* A line chart visualizing *Revenue by Start of Week* to monitor seasonal fluctuations and operational peaks across trading cycles.
-3. *Product Performance Metrics:* Matrix tables and bar charts highlighting category trends and a breakdown of the *Top 10 Products* by total revenue and return rate margin
+## 📈 Dashboard Overview
+
+### 1. Regional Sales Overview
+Clean high-level cards showing Revenue, Profit, Orders, and Return Rates for rapid business health evaluation alongside a line chart visualizing revenue by start of week.
+
+![Regional Sales Analysis](Screenshot%202026-10-17%20094535.png)
+
+### 2. Geographic Performance Map
+Interactive visual mapping tracking cross-border market penetration and local territory distributions.
+
+![Geographical Information Map](Screenshot%202026-10-17%20094648.png)
+
+### 3. Targets and Trends
+Gauge and line tracking systems assessing monthly goals alongside performance trends over consecutive periods.
+
+![Profit and Order Gauges](Screenshot%202026-10-17%20094718.png)
+
+### 4. Customer Demographics
+Deep-dive customer analytics identifying value clusters, purchase frequencies, and individual high-spending accounts.
+
+![Customer Segmentation Analysis](Screenshot%202026-10-17%20094748.png)
