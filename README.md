@@ -22,4 +22,11 @@ Welcome to my data analytics repository! This space showcases end-to-end data in
 ## 🛠️ Core Technical Stack
 * *Business Intelligence & Visualization:* Power BI (DAX, Power Query, Data Modeling)
 * *Cloud Warehousing & Querying:* Google BigQuery, SQL
-* *Spreadsheets & Reporting:* Microsoft Excel (Pivot Tables, XLOOKUP, Charts)
+* *Spreadsheets & Reporting:* Microsoft Excel (Pivot Tables, XLOOKUP, Data Cleaning, Charts)
+
+---
+
+## 📫 Connect With Me
+* *GitHub:* [@apavjamesterngu25-AJ](https://github.com)
+* *Portfolio Website:* [apavjamesterngu25-aj.github.io/Data-Analytics-Portfolio](https://github.io)
+* *Email:* [your.email@example.com](mailto:apavjamesterngu25@gmail.com)
