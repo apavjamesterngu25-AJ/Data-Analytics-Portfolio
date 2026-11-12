@@ -2,8 +2,6 @@
 
 Welcome to my data analytics repository! This space showcases end-to-end data investigations, interactive business intelligence dashboards, and SQL queries across multiple industries using *Power BI*, *Google BigQuery*, and *Microsoft Excel*.
 
-🌐 *[Explore My Live Portfolio Website](https://github.io)*
-
 ---
 
 ## 📁 Featured Projects
@@ -27,6 +25,4 @@ Welcome to my data analytics repository! This space showcases end-to-end data in
 ---
 
 ## 📫 Connect With Me
-* *GitHub:* [@apavjamesterngu25-AJ](https://github.com)
-* *Portfolio Website:* [apavjamesterngu25-aj.github.io/Data-Analytics-Portfolio](https://github.io)
 * *Email:* [apavjamesterngu25@gmail.com](mailto:apavjamesterngu25@gmail.com)
