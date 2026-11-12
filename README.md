@@ -27,6 +27,7 @@ Welcome to my data analytics repository! This space showcases end-to-end data in
 ---
 
 ## 📫 Connect With Me
+## 📫 Connect With Me
 * *GitHub:* [@apavjamesterngu25-AJ](https://github.com)
 * *Portfolio Website:* [apavjamesterngu25-aj.github.io/Data-Analytics-Portfolio](https://github.io)
 * *Email:* [apavjamesterngu25@gmail.com](mailto:apavjamesterngu25@gmail.com)
